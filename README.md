@@ -81,5 +81,5 @@
 ### Environment Setup
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/umurage-globaltech-app.git
+   git clone https://github.com/greennety/UMURAGE-GLOBALTECH-APP.git
    cd app
